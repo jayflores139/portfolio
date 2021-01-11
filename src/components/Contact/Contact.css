@@ -1,0 +1,16 @@
+.contact-section {
+	padding: 90px 0;
+}
+
+.contact-info p a {
+    color: var(--text-color);
+    text-decoration: underline;
+}
+
+.contact-info {
+    text-align: center;
+}
+
+.contact-info p span {
+    font-weight: bold;
+}
