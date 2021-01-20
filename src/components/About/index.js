@@ -11,7 +11,7 @@ const About = () => {
 
 				<div className="col-md-8 m-auto">
 					<p className="text-center">
-						Hello, I'm Joemy Jay Flores, a web developer focused on building a fast and secure web application. Outside of programming, I enjoy playing video games and watching twitch clip.
+						Hello, I'm Joemy Jay Flores, a web developer focused on building a fast and secure web application. Outside of programming, I enjoy playing video games.
 					</p>
 					<p className="text-center mb-4">
 					 Below is a list of my technical skills:
